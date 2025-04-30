@@ -31,7 +31,7 @@ You control a character running through a city environment with smooth animation
 
  Clone the repository:
  
-   git clone https://github.com/your-username/OnTheRun.git
+   git clone https://github.com/0AhmedElHawary0/OnTheRun.git
 
 Open the project in Unity 2022.3.x or later
 
